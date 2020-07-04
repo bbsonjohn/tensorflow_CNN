@@ -9,7 +9,7 @@ We also show the graphical representation of the graph. We first pass the image 
 
 <img src="figures/CompGraph.png" width="70%">
 
-There are 1310 trainable parameters in total, as we have demonstrated in the following figure. We run the model in 64 minibatches over 200 epoches. We have plot the loss and accuracy metric as a function of epoches to see the learning outcome. We didn't saturate the loss given our hyperparameter settings because we want to save computational time for this demonstration purpose.
+There are 1310 trainable parameters in total, as we have demonstrated in the following figure. We trained the parameters with adam optimizer in 64 minibatches over 200 epoches. We have plot the loss and accuracy metric as a function of epoches to see the learning outcome. We didn't saturate the loss given our hyperparameter settings because we want to save computational time for this demonstration purpose.
 
 <img src="figures/ModelSummary.png" width="60%">
 
