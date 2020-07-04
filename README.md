@@ -15,4 +15,4 @@ There are 1310 trainable parameters in total, as we have demonstrated in the fol
 
 After the training, we test our CNN model with new test images. We output the test image and the CNN prediction to see if how well the result is predicted.
 
-<img src="figures/ResultPrediction.png" width="40%">
+<img src="figures/ResultPrediction.png" width="30%">
