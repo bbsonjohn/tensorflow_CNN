@@ -1,4 +1,15 @@
 # tensorflow_CNN
+
+Project: Multiclass Hand Gesture Identification Using CNN
+
+Author: <a href="https://bbsonjohn.github.io">John Leung</a>
+
+Date: 2020
+
+<hr>
+
+## Feature:
+
 An implementation of convolutional neural network using tensorflow. We acknowledge **deeplearning.ai** for inspiring the program and providing the data set.
 
 Here, we would demonstrate recognizing a single hand gesturing numbers. We adopt a convolutional neural network to analyze sample of 64 px by 64 px images with RGB channels. The model is as follow:
